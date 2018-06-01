@@ -1,0 +1,24 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'Shop_mesh_0007.obj'
+
+# Vertices (Count = 4)
+v -41600 -3200 0
+v -44800 -3200 0
+v -44800 0 0
+v -41600 0 0
+
+# Texture cooridinates (Count = 4)
+vt 0 0.875
+vt 0.0625 0.875
+vt 0.0625 0.9375
+vt 0 0.9375
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g Shop_mesh_0007
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+

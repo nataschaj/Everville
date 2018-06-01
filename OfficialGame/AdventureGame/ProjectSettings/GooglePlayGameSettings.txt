@@ -1,0 +1,9 @@
+lastUpgrade=00950
+proj.pluginVersion=0.9.50
+proj.AppId=217306647684
+and.BundleId=com.DittyK.AdventureGame
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e217306647684%3c%2fstring%3e%0d%0a++%3c%21--+package_name+--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.DittyK.AdventureGame%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Login+--%3e%0d%0a++%3cstring+name%3d%22achievement_login%22+translatable%3d%22false%22%3eCgkIhJnxw6kGEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Money+Collector%21+--%3e%0d%0a++%3cstring+name%3d%22achievement_money_collector%22+translatable%3d%22false%22%3eCgkIhJnxw6kGEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--+achievement+On+A+Roll%21+--%3e%0d%0a++%3cstring+name%3d%22achievement_on_a_roll%22+translatable%3d%22false%22%3eCgkIhJnxw6kGEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Doing+Your+Duty+--%3e%0d%0a++%3cstring+name%3d%22achievement_doing_your_duty%22+translatable%3d%22false%22%3eCgkIhJnxw6kGEAIQBQ%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Show+Some+Mercy+--%3e%0d%0a++%3cstring+name%3d%22achievement_show_some_mercy%22+translatable%3d%22false%22%3eCgkIhJnxw6kGEAIQBg%3c%2fstring%3e%0d%0a++%3c%21--+achievement+You%27re+A+Wizard+Harry%21+--%3e%0d%0a++%3cstring+name%3d%22achievement_youre_a_wizard_harry%22+translatable%3d%22false%22%3eCgkIhJnxw6kGEAIQBw%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+Highscore+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_highscore%22+translatable%3d%22false%22%3eCgkIhJnxw6kGEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=217306647684-u2cfnl9fpagknqm8t81p0r4afd39vime.apps.googleusercontent.com
+android.SetupDone=true
